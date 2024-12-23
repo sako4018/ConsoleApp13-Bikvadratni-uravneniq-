@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp13(Bikvadratni uravneniq)", "ConsoleApp13(Bikvadratni uravneniq)\ConsoleApp13(Bikvadratni uravneniq).csproj", "{D76C7FA0-EAB7-4BCD-9AAA-508D9CFDE642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D76C7FA0-EAB7-4BCD-9AAA-508D9CFDE642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76C7FA0-EAB7-4BCD-9AAA-508D9CFDE642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76C7FA0-EAB7-4BCD-9AAA-508D9CFDE642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76C7FA0-EAB7-4BCD-9AAA-508D9CFDE642}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785E0A86-77F5-4994-A96D-4C39E73D6EBD}
+	EndGlobalSection
+EndGlobal
