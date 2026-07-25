@@ -63,5 +63,21 @@ namespace ConsoleApp13_Bikvadratni_uravneniq_
             double roundedNumber = Math.Round(x, 2);
             Console.WriteLine("X = " + roundedNumber);
         }
+
+        // Method to calculate factorial of a number
+        static long Factorial(int n)
+        {
+            if (n < 0)
+                return -1; // Error: negative number
+            if (n == 0 || n == 1)
+                return 1;
+
+            long result = 1;
+            for (int i = 2; i <= n; i++)
+            {
+                result *= i;
+            }
+            return result;
+        }
     }
 }
